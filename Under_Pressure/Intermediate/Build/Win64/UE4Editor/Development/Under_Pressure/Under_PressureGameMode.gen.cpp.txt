@@ -1,0 +1,9 @@
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Definitions.Under_Pressure.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Source\Under_Pressure/Under_PressureGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Inc\Under_Pressure\Under_PressureGameMode.generated.h

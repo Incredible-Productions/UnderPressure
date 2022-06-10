@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Under_Pressure",
+			"Path": "C:\\Users\\Dmitry\\Documents\\Unreal Projects\\Under_Pressure\\Source\\Under_Pressure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Under_PressureEditor",
+			"Path": "C:\\Users\\Dmitry\\Documents\\Unreal Projects\\Under_Pressure\\Source\\Under_PressureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

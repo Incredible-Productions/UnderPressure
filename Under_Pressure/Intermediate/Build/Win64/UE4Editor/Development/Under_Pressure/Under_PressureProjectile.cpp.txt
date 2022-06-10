@@ -1,0 +1,11 @@
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Definitions.Under_Pressure.h
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Source\Under_Pressure\Under_PressureProjectile.h
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Inc\Under_Pressure\Under_PressureProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

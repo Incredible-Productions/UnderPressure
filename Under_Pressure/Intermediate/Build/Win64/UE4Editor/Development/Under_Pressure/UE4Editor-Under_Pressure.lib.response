@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Under_Pressure.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\Under_PressureEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_Pressure.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureCharacter.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureGameMode.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureHUD.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureProjectile.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_Pressure.init.gen.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureCharacter.gen.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureGameMode.gen.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureHUD.gen.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Under_PressureProjectile.gen.cpp.obj"
+"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Default.rc2.res"
+/OUT:"C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\UE4Editor-Under_Pressure.lib"

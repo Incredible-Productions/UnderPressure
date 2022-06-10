@@ -1,0 +1,2 @@
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Intermediate\Build\Win64\UE4Editor\Development\Under_Pressure\Definitions.Under_Pressure.h
+C:\Users\Dmitry\Documents\Unreal Projects\Under_Pressure\Source\Under_Pressure\Under_Pressure.h
